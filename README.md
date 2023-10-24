@@ -1,18 +1,14 @@
 
 # The World Hardest Game
 
-The goal in the game is to hit the green ball.
-
-If the player hits the green ball he earns a point
-
-If the player fails to hit the green ball, the player loses all points and the game starts over
+The goal in the game is 
 
 
 # Gameplay
 
-<img src="https://github.com/muratkrdl/Tricky-Disk/blob/main/Picture.png" width="auto">
+<img src="" width="auto">
 
-<img src="https://github.com/muratkrdl/Tricky-Disk/blob/main/Tricky%20Disk.gif" width="auto">
+<img src="f" width="auto">
 
 
 ## Authors
