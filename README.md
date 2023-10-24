@@ -6,9 +6,9 @@ The goal in the game is
 
 # Gameplay
 
-<img src="" width="auto">
+<img src="https://github.com/muratkrdl/The-World-Hardest-Game/blob/main/Picture.png" width="auto">
 
-<img src="f" width="auto">
+<img src="https://github.com/muratkrdl/The-World-Hardest-Game/blob/main/Gameplay.gif" width="auto">
 
 
 ## Authors
