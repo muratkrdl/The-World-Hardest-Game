@@ -1,7 +1,11 @@
 
 # The World Hardest Game
 
-The goal in the game is 
+The goal in the game is to reach the opposite green zone
+
+The player can move red square with "awsd"
+
+If the player touches the blue balls, the red square returns to the starting point
 
 
 # Gameplay
